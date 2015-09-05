@@ -1,5 +1,5 @@
 {
-  "name": "node-logger",
+  "name": "node-es6-logger",
   "version": "1.0.0",
   "description": "a common logger configuration using winston",
   "main": "index.js",
