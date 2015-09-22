@@ -1,4 +1,4 @@
-# node-logger
+# node-logger [![Circle CI](https://circleci.com/gh/tyrchen/node-logger.svg?style=svg)](https://circleci.com/gh/tyrchen/node-logger)
 
 a common logger configuration using winston.
 
